@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Emilyn Figueiredo Estética",
+  "description": "Landing page e assistente inteligente de estética avançada para a clínica de Dra. Emilyn Figueiredo, com rotinas personalizadas e agendamento de consultas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
